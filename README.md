@@ -1,3 +1,3 @@
 # 3D-Models
 
-A colation of my puplic 3D models.
+A collection of my public 3D models.
